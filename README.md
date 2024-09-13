@@ -1,4 +1,4 @@
-![DE PROGRAM](https://github.com/user-attachments/assets/66a2adb0-1306-4674-94e9-05948a52113e)### study-of-basic-gates
+### study-of-basic-gates
 
 **AIM:** 
 
