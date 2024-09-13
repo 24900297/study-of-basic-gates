@@ -1,4 +1,4 @@
-### study-of-basic-gates
+![DE PROGRAM](https://github.com/user-attachments/assets/66a2adb0-1306-4674-94e9-05948a52113e)### study-of-basic-gates
 
 **AIM:** 
 
@@ -60,20 +60,25 @@ Y= A⊕B
 4.	Create nodes for inputs and outputs to generate the timing diagram.
 
 5.	For different input combinations generate the timing diagram.
+   
+ Developed by:THIRUMALAI P
+
+ 
+ RegisterNumber:24900297 
 
 
 **PROGRAM**
-
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
- 
-**Logic symbol & Truthtable**
-
-**RTL realization Output:** 
+![DE PROGRAM](https://github.com/user-attachments/assets/b0c784f5-2b4e-4cab-ba4a-f6a20ddd1b45)
 
 **RTL**
+![DE DIAGRAM](https://github.com/user-attachments/assets/64268415-b3f0-4895-b7df-c10f4aa6209a)
+
+
+**RTL realization Output:** 
+![Screenshot 2024-09-12 023139](https://github.com/user-attachments/assets/69100339-a64a-4def-a026-349304445a8d)
+
+
 
 **Result:**
-
+The program is verified sucessfully using the software quartus prime. 
 
