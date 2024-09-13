@@ -80,6 +80,6 @@ Y= A⊕B
 
 
 **Result:**
-
-The program is verified sucessfully using the software quartus prime. 
+  
+The program is verified sucessfully using the software quartus prime.
 
